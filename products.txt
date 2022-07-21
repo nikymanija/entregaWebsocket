@@ -1,0 +1,1 @@
+[{"socketId":"VyVDwdP6FS6TBJhaAAAD","product":{"name":"autos","price":"2000000","thumbnail":"C:\\Users\\nicos\\Desktop\\manzana.jpg"}}]
